@@ -4,6 +4,7 @@
 <p>This repo only contain the payload. If you are looking for this, you should know how to do for get the results when a victim execute the payload.</p>
 <br>
 <h2>Installation</h2>
+<p>Launch the installer.bat OR </p>
 <p>Type the command :</p>
 
 `$ pip install -r requirements.txt`
