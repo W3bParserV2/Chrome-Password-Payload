@@ -1,0 +1,3 @@
+pycryptodome
+pypiwin32
+pystyle
